@@ -1,2 +1,4 @@
-# Curso em Video html 5
- material curso html e css 
+# TENTANDO FAZER UM SITE
+
+-Assistindo a aula 12 e 13 do curso de Git/GitHub e tentando fazer e Hospedar um site-
+
